@@ -1,0 +1,36 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./app/books/book.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.book_booksPage__RrNZR {
+  min-height: 100vh;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+.book_booksPage__RrNZR .book_heading__f76ZK {
+  padding-left: 20px;
+}
+.book_booksPage__RrNZR .book_heading__f76ZK h1 {
+  padding-bottom: 20px;
+}
+.book_booksPage__RrNZR .book_heading__f76ZK a {
+  color: #1976d2;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[9].use[5]!./app/components/Table/table.module.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.table_tableContainer__wSEXs {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.table_tableContainer__wSEXs a {
+  color: #1976d2;
+}
+.table_tableContainer__wSEXs .table_deleteButton__GMG5K {
+  background: #1976d2;
+  color: white;
+  padding: 8px 10px;
+  border: none;
+  border-radius: 8px;
+}
